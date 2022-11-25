@@ -1,24 +1,10 @@
-# tarea-7
+# express-demo
 
-## Project setup
-```
-npm install
-```
+API using ExpressJS with basic router, controller, environment (ES6 module)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Environment Variables
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+|Name|Description|
+|--|--|
+|MONGO_URI| MONGO connection uri |
+|PORT| Express listening port|
