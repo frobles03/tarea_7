@@ -7,6 +7,6 @@ export function getStudent(req, res) {
 			title: "Título del proyecto: Hama beads"
 	}
 
-	return res.status(201).send([]);
+	return res.status(201).send(estudiante);
 }
 

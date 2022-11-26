@@ -1,4 +1,4 @@
-export function getSum(req, res) {
+export function getMult(req, res) {
 	// number1 Number SI Body Primer número
 	// a sumar
 	// number2 Number SI Body Segundo
